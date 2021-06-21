@@ -1,0 +1,1 @@
+# printing-table-of-2-in-python
